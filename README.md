@@ -1,4 +1,4 @@
-### <div align="center">I'm Yosuke Fujisawa, a graduate student at Waseda University.</div>  
+### <div align="center">I'm Yosuke Fujisawa, a Ph.D student at Waseda University.</div>  
   
 
 - ⚡ I'm majoring in [Computer Science and Communications Engineering](https://www.csce.waseda.ac.jp/) and belong to the [Multi-Agent System Laboratory](https://www.sugawara.org/top).  
